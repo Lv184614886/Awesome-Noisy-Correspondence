@@ -1,4 +1,8 @@
-#### 2025
+# Noisy-Correspondence Learning Summary
+
+## Image-Text Matching/Retrieval
+
+### 2025
 
 - `[2025 ICLR]` **Discovering Clone Negatives via Adaptive Contrastive Learning for Image-Text Matching**  
 *Renjie Pan, Jihao Dong, Hua Yang*    
@@ -21,7 +25,7 @@
 *Yunbo Wang, YuJie Wu, Zhien Dai, Can Tian, Jun Long, Jianhai Chen*    
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/35439)
 
-#### 2024
+### 2024
 
 - `[2024 Arxiv]` **Robust Noisy Correspondence Learning via Self-Drop and Dual-Weight**  
 *Fan Liu, Chenwei Dong, Chuanyi Zhang, Hualiang Zhou, Jun Zhou*    
@@ -106,7 +110,7 @@
 [[paper]](https://arxiv.org/pdf/2312.05777.pdf)
 [[code]](https://github.com/ZhangXu0963/NPC)
 
-#### 2023
+### 2023
 
 - `[2023 NeurIPS]` **⭐Cross-modal Active Complementary Learning with Self-refining Correspondence**  
 *Yang Qin and Yuan Sun and Dezhong Peng and Joey Tianyi Zhou and Xi Peng and Peng Hu*  
@@ -137,14 +141,14 @@
 [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Han_Noisy_Correspondence_Learning_With_Meta_Similarity_Correction_CVPR_2023_paper.html)
 [[code]](https://github.com/hhc1997/MSCN)
 
-#### 2022
+### 2022
 
 - `[2022 ACMMM]` **⭐Deep Evidential Learning with Noisy Correspondence for Cross-Modal Retrieval**  
 *Qin, Yang and Peng, Dezhong and Peng, Xi and Wang, Xu and Hu, Peng*  
 [[paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3547922)
 [[code]](https://github.com/QinYang79/DECL)
 
-#### 2021
+### 2021
 - `[2021 NeurIPS Oral]` **⭐Learning with Noisy Correspondence for Cross-modal Matching**  
 *Huang, Zhenyu and Niu, Guocheng and Liu, Xiao and Ding, Wenbiao and Xiao, Xinyan and Wu, Hua and Peng, Xi*  
 [[paper]](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf)
@@ -174,3 +178,7 @@ Li, Junnan and Li, Dongxu and Xiong, Caiming and Hoi, Steven*
 [[paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/505259756244493872b7709a8a01b536-Paper.pdf)
 [[code]](https://github.com/salesforce/ALBEF)
 
+# Acknowledgements
+
+This project is based on (https://github.com/XLearning-SCU/Awesome-Noisy-Correspondence.git).  
+Thanks to the authors for their great work!
