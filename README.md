@@ -2,14 +2,31 @@
 
 ## Image-Text Matching/Retrieval
 
-### 2025
+#### 2025
+
+- `[2025 Arxiv]` **Unlearning the Noisy Correspondence Makes CLIP More Robust**  
+*Haochen Han, Alex Jinpeng Wang, Peijun Ye, Fangming Liu*  
+[[paper]](https://arxiv.org/pdf/2507.03434)
+
+- `[2025 SIGIR]` **Meta-Guided Adaptive Weight Learner for Noisy Correspondence**  
+*Chenyu Mu, Erkun Yang, Cheng Deng*  
+[[paper]](https://dl.acm.org/doi/abs/10.1145/3726302.3730032)
+
+- `[TIP 2025]` **UCPM: Uncertainty-Guided Cross-Modal Retrieval With Partially Mismatched Pairs**  
+*Quanxing Zha, Xin Liu, Yiu-Ming Cheung, Shu-Juan Peng, Xing Xu, Nannan Wang*  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/11024122)
+[[code]](https://github.com/qxzha/UCPM)
+
+- `[2025 ICIC]` **Cross-Modal Matching with Noisy Correspondence via Neighbor Replacing**  
+*Ao Han, Yang Cao*  
+[[paper]](https://link.springer.com/chapter/10.1007/978-981-96-9794-6_26)
 
 - `[2025 ICLR]` **Discovering Clone Negatives via Adaptive Contrastive Learning for Image-Text Matching**  
-*Renjie Pan, Jihao Dong, Hua Yang*    
+*Renjie Pan, Jihao Dong, Hua Yang*  
 [[paper]](https://openreview.net/pdf?id=My9MBsO41H)
 
 - `[2025 TIP]` **Disentangled Noisy Correspondence Learning**  
-*Zhuohang Dang, Minnan Luo, Jihong Wang, Chengyou Jia, Haochen Han, Herun Wan, Guang Dai, Xiaojun Chang, Jingdong Wang*    
+*Zhuohang Dang, Minnan Luo, Jihong Wang, Chengyou Jia, Haochen Han, Herun Wan, Guang Dai, Xiaojun Chang, Jingdong Wang*  
 [[paper]](https://arxiv.org/pdf/2408.05503)
 
 - `[2025 CVPR]` **ReCon: Enhancing True Correspondence Discrimination through Relation Consistency for Robust Noisy Correspondence Learning**  
